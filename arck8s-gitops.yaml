@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: Welcome, Arc demo on 7 Dec 2022 !! Thanks for Joining !!
+          value: Welcome, Arc demo on 7 Dec 2022 !!
